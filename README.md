@@ -1,6 +1,6 @@
 # PHP-LoginSystem
-This is a PHP login system. 
-<b>This project has the following pages</b>
+This is a PHP login system. <br/>
+<b>Pages:</b>
 <ul>
   <li>Employee login page</li>
   <li>Forgot Password page</li>
